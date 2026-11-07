@@ -5,7 +5,7 @@ return {
       picker = {
         sources = {
           explorer = {
-            hidden = true,  -- Show hidden files by default
+            hidden = true, -- Show hidden files by default
             ignored = false, -- Hide files in .gitignore
           },
         },
